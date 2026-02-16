@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Gowtham 👋
 
-<!--
-**Gowthamgowthu2003/Gowthamgowthu2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Full Stack Developer passionate about building scalable systems.
 
-Here are some ideas to get you started:
+Tech Stack:
+- Java, Spring Boot
+- ReactJS
+- JWT Authentication
+- MySQL
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Projects:
+- BookMyStay (Hotel Booking Platform)
+- Blog Management System
+
+Currently exploring advanced backend system design and cloud deployment.
